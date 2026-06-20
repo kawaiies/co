@@ -1,0 +1,14 @@
+/* Template: Magazine - News/magazine style, bigger images, category emphasis */
+.header-style-centered{text-align:center}
+.header-style-centered .header-container{flex-direction:column;height:auto!important;padding:15px 20px}
+.header-style-centered .header-left{flex-direction:column;gap:10px;width:100%}
+.header-style-centered .nav-list{justify-content:center}
+.header-style-centered .header-right{margin-top:10px;justify-content:center}
+.post-card-magazine{border-radius:4px!important;border:none!important;box-shadow:0 1px 4px rgba(0,0,0,.06)!important}
+.post-card-magazine .post-card-image img{height:220px}
+.post-card-magazine .post-category{background:#1a1a1a!important}
+.hero-section-magazine{background:#1a1a1a!important;text-align:left!important;padding:60px 20px!important}
+.hero-section-magazine h1{font-size:38px!important}
+.posts-grid-magazine{grid-template-columns:2fr 1fr 1fr!important}
+.posts-grid-magazine article:first-child{grid-column:1/2;grid-row:1/3}
+.announcement-bar-magazine{background:#222;color:#fff;font-size:12px;text-transform:uppercase;letter-spacing:1px}

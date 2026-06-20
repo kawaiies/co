@@ -1,0 +1,12 @@
+/* Template: Bold - Dark header, large typography, accent-heavy */
+.header-style-transparent{background:transparent!important;box-shadow:none!important;position:absolute;width:100%}
+.header-style-transparent .site-logo,.header-style-transparent .nav-list li a,.header-style-transparent .header-action{color:#fff!important}
+.header-style-transparent .nav-list li a:hover{color:#ff6b6b!important}
+.hero-section-bold{background:#1a1a1a!important;color:#fff!important;padding:100px 20px!important}
+.hero-section-bold h1{font-size:52px!important}
+.hero-section-bold p{color:rgba(255,255,255,.7)!important}
+.post-card-bold{border-radius:0!important;border:1px solid #eee;box-shadow:none!important}
+.post-card-bold:hover{transform:none!important;border-color:#ff6b6b}
+.announcement-bar-bold{background:#e94560;color:#fff}
+.site-logo-bold{font-size:28px;font-weight:800;letter-spacing:-1px}
+.btn-bold{border-radius:4px!important;font-weight:700!important}

@@ -1,0 +1,12 @@
+/* Template: Clean - Minimal, spacious, modern */
+.header-style-clean{background:#fff;border-bottom:1px solid #eee;box-shadow:none!important}
+.header-style-clean .nav-list li a{color:#555;font-weight:400}
+.header-style-clean .site-logo{font-weight:600;font-size:22px}
+.footer-style-light{background:#f5f5f5;color:#333;border-top:1px solid #eee}
+.footer-style-light .footer-col h3,.footer-style-light .footer-col h4{color:#333}
+.footer-style-light .footer-col p{color:#666}
+.footer-style-light .footer-col ul li a{color:#555}
+.footer-style-light .social-links a{color:#555}
+.footer-style-light .footer-bottom p{color:#888}
+.footer-style-light .footer-bottom{border-top-color:#ddd}
+.announcement-bar-clean{background:#f0f0f0;color:#333;font-size:13px;padding:8px 20px}

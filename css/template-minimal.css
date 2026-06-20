@@ -1,0 +1,11 @@
+/* Template: Minimal - Ultra-minimal, serif font feel, lots of whitespace */
+.header-style-compact{height:60px!important}
+.header-style-compact .header-container{height:60px}
+.header-style-compact .site-logo{font-size:20px;font-weight:600}
+.header-style-compact .nav-list{gap:16px}
+.header-style-compact .nav-list li a{font-size:13px;padding:8px 0}
+.announcement-bar-minimal{display:none}
+.footer-style-minimal{background:#fff;border-top:1px solid #eee;padding:30px 20px}
+.footer-style-minimal .footer-columns{grid-template-columns:1fr!important;text-align:center;gap:20px}
+.footer-style-minimal .footer-bottom{text-align:center;justify-content:center}
+.footer-style-minimal .social-links{justify-content:center}

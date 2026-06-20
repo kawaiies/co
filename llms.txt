@@ -1,0 +1,38 @@
+<!-- LLM SEO Context -->
+    
+    <meta name="llm:shop" content="# CURREX Blog 
+
+&gt; German-engineered performance insoles featuring Dynamic Arch Technology™. Designed for runners, athletes (soccer, pickleball, cycling, basketball, skiing), hikers, and everyday wearers seeking comfort, injury prevention, and performance support. 
+
+## Site Pages
+
+- [About Us](/about): Brand overview and philosophy
+- [FAQs](/faq): Frequently asked questions about insoles
+- [Insole Finder](/insole-finder): Personalized product match quiz
+- [Contact](/contact): Get in touch
+
+## Product Category Pages
+
+- [Running](/running): Insoles for running
+- [Sports](/sports): Insoles for athletes including soccer, baseball, basketball, tennis, pickleball, golf
+- [Adventure](/adventure): Insoles for biking, hiking, skiing
+- [Everyday](/everyday): Insoles for walking, standing, gym
+- [For Kids](/currex-youth-insoles-for-kids): Youth insoles for kids
+
+## Blog Reviews &amp; Guides
+
+- [Best Running Insoles of 2026](/blog/best-running-insoles-of-2026): Top insole recommendations with RunPro review
+- [CURREX ActivePro vs RunPro](/blog/currex-activepro-vs-runpro-comparison): Head-to-head comparison
+- [My Experience with CURREX RUNPRO Insoles](/blog/currex-runpro-insoles-review): Detailed user review
+- [Best Insoles for Nurses](/blog/best-insoles-for-nurses-healthcare-workers): All-day comfort for healthcare workers
+- [Choose Right Arch Support](/blog/how-to-choose-right-arch-support-foot-type): Arch type guide with wet test
+- [Couch to 5K Training Plan](/blog/couch-to-5k-training-plan-a-smarter-way-to-start-running): Running plan for beginners
+- [Finding Best Insoles for Your Sport](/blog/finding-the-best-insoles-for-your-sport-with-currex): Sport-specific insole guide
+
+## Amazon Product Links (Affiliate)
+
+All product links use affiliate tag: prettydani-20
+Example: https://www.amazon.com/dp/B0CQ2VYSF1?tag=prettydani-20
+" />
+    
+    <!-- LLM SEO Context -->

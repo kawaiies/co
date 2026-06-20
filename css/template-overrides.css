@@ -1,0 +1,34 @@
+/* Footer style overrides for template system */
+.footer-style-dark{background:#1a1a1a;color:rgba(255,255,255,.6)}
+.footer-style-light{background:#f5f5f5;color:#555;border-top:1px solid #eee}
+.footer-style-light .footer-col h3,.footer-style-light .footer-col h4{color:#333}
+.footer-style-light .footer-col p{color:#777}
+.footer-style-light .footer-col ul li a{color:#555}
+.footer-style-light .social-links a{color:#555}
+.footer-style-light .social-links a:hover{color:#e94560}
+.footer-style-light .footer-bottom p{color:#999}
+.footer-style-light .footer-bottom{border-top-color:#ddd}
+.footer-style-minimal{background:#fff;border-top:1px solid #eee;padding:30px 20px}
+.footer-style-minimal .footer-columns{grid-template-columns:1fr!important;text-align:center;gap:20px}
+.footer-style-minimal .footer-bottom{text-align:center;justify-content:center}
+
+/* Header style overrides */
+.header-style-compact .header-container{height:60px}
+.header-style-compact .site-logo{font-size:20px}
+.header-style-compact .nav-list{gap:16px}
+.header-style-compact .nav-list li a{font-size:13px}
+.header-style-centered .header-container{flex-direction:column;height:auto;padding:15px 20px}
+.header-style-centered .header-left{flex-direction:column;gap:10px;width:100%}
+.header-style-centered .nav-list{justify-content:center}
+.header-style-centered .header-right{margin-top:10px}
+.header-style-transparent{background:transparent!important;box-shadow:none!important;position:absolute;width:100%}
+.header-style-transparent .site-logo,.header-style-transparent .nav-list li a,.header-style-transparent .header-action{color:#fff!important}
+.site-logo-image{display:flex;align-items:center}
+
+/* Layout variations */
+body.layout-boxed{max-width:1200px;margin:0 auto;box-shadow:0 0 30px rgba(0,0,0,.08)}
+.container.layout-wide{max-width:1400px!important}
+
+/* Template-specific badge on admin */
+.admin-template-badge{display:inline-block;background:#e94560;color:#fff;padding:2px 10px;border-radius:4px;font-size:11px;font-weight:600;text-transform:uppercase;margin-left:8px}
+.footer-columns{display:grid;gap:40px;margin-bottom:40px}
